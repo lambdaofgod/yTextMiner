@@ -1,0 +1,10 @@
+0	0.29858	46633	city street art york music theater house museum home night building week brooklyn fashion square west park manhattan festival 
+1	0.29098	40318	court federal judge law city public york school decision department thursday health students former justice supreme legal charges prosecutors 
+2	0.19637	31951	trump clinton president campaign republican donald party obama presidential hillary house democratic sanders election washington political nominee senator national 
+3	0.58798	69551	times time people world ms life york book love series don white name re ago news week article black 
+4	0.13196	19240	european union britain ali london country british france vote leave europe russia minister world russian international prime friday paris 
+5	0.27384	34740	food day water re summer days morning found air home cooking car scientists road restaurant week time little half 
+6	0.29587	45351	police people united china american orlando officials killed shooting security government military gay attack city south chinese war islamic 
+7	0.14617	27011	york university graduated son received daughter married father june college dr bride school mother couple degree church law groom 
+8	0.2279	43259	game team season 1 games night players 6 2 mets 3 time league victory won 4 win third finals 
+9	0.40555	55688	company million percent billion companies 000 business financial money market chief executive 1 deal 2 5 industry according bank 
